@@ -1,10 +1,10 @@
 # Francisco Torres
 
-# Data-Science-Portfolio-
+# Data-Science-Portfolio
 
 <img width="805" alt="image" src="https://github.com/user-attachments/assets/4e9e9f2f-22b2-4fdc-968b-aad7ae0cb56a" />
 
-Here are the links to my projects:
+Here are the links to my portfolio projects:
 
 1. [Student Grade Prediction (Linear Regression)/(Classification)](https://github.com/Xninety-nine/Capstone_2_Student_data)
 2. [Chest X-Ray Classification (CNN)](https://github.com/Xninety-nine/Capstone-3-Predicting-Pneumonia-in-X-ray-Images)
