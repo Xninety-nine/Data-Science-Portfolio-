@@ -18,5 +18,5 @@ Here are the links to my portfolio projects:
 
 
 ## 💼📈Business Projects
-1. [Customer Churn Prdiction using Machine Learning](https://github.com/Xninety-nine/Customer-Churn-Prediction)
+1. [Customer Churn Prediction using Machine Learning](https://github.com/Xninety-nine/Customer-Churn-Prediction)
 2. [Coffee Case Study: Using Datascience and AI to Drive Smarter Business Decisions](https://github.com/Xninety-nine/Coffee-Case-Study/tree/main) 
